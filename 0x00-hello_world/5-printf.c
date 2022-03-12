@@ -1,6 +1,5 @@
 #include <stdio.h>
 /**
- *
  * main - entery point
  *
  * My hello, printf task
