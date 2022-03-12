@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- * main - entery point 
+ * main-entery point
  *
- * Return: Return: Always (sucess/correct)
+ * Return: Return: Always(sucess/correct)
  *
  */
 int main(void)
@@ -26,5 +26,5 @@ int main(void)
 	{
 	printf("Last digit of %i and is less than 6 and not 0\n", n % 10);
 	}
-	return(0);
+	return (0);
 }
