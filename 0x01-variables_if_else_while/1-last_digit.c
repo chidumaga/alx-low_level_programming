@@ -4,7 +4,8 @@
 /**
  * main - entery point 
  *
- * Return: 0 after success
+ * Return: Return: Always (sucess/correct)
+ *
  */
 int main(void)
 {
@@ -19,7 +20,7 @@ int main(void)
 	}
 	else if (n % 10 == 0)
 	{
-	printf("Last digit of %i is and is 0\n", n, n % 10);
+	printf("Last digit of %i is %i and is 0\n", n, n % 10);
 	}
 	else
 	{
