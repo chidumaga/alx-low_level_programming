@@ -2,7 +2,6 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- *
  * main-entery point
  *
  * Return: Return: Always(sucess/correct)
