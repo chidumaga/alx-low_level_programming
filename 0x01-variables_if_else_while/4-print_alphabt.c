@@ -2,7 +2,6 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- *
  * main-entery point
  *
  * Return: Return: Always(sucess/correct)
@@ -22,3 +21,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
+}
