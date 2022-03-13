@@ -9,10 +9,10 @@
  */
 int main(void)
 {
-	char lower_case;
 	char upper_case;
+	char lower_case;
 
-	for (upper_case = 'a'; upper_case <= 'z'; upper_case++)
+	for (upper_case = 'A'; upper_case <= 'Z'; upper_case++)
 	{
 		putchar(lower_case);
 	}
