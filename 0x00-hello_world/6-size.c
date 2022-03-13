@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
  * main - entery point
+ *
  * My hello, printf task
+ *
  * Return: 0 after printing the function
  */
 int main(void)
