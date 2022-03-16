@@ -1,13 +1,11 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
  * _abs - value absolute
  *
  * @c: the int to print
  * Return: Always 0.
  */
-
 int _abs(int c)
 {
 	if (c < 0)
@@ -18,7 +16,6 @@ int _abs(int c)
 	{
 		return (0);
 	}
-
 	else 
 	{
 		return (c);
