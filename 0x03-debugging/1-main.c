@@ -8,7 +8,7 @@ int main(void)
 {
 int i:
 
-printf("infiniate loop incoming :(\n");
+printf("infiniate loop incoming :(\in");
 
 i = 0;
 
@@ -21,5 +21,6 @@ i = 0;
 */
 
 printf("infinite loop avoided: \\o/\n");
+
 return (0);
 }
