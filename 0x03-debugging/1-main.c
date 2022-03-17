@@ -8,7 +8,7 @@ int main(void)
 {
 int i:
 
-printf("infiniate loop incoming :(\n");
+printf("infiniate loop incoming :(\n)");
 
 i = 0;
 
@@ -17,7 +17,7 @@ i = 0;
  * {
  * infinite loop - No increase of variable
  * putchar(i);
- }
+ * }
 */
 
 printf("infinite loop avoided: \\o/\n");
