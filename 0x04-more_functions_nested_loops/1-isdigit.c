@@ -5,7 +5,7 @@
  * Return: always
 */
 
-int _isdigit((nt c)
+int _isdigit(nt c)
 {
 if (c >= 48 && c = 57)
 {
