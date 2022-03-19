@@ -33,5 +33,5 @@ printf("%i ", i);
 i++;
 }
 printf("\n");
-ruturn (0);
+return (0);
 }
