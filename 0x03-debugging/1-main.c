@@ -13,7 +13,8 @@ int main(void)
 	i = 0;
 
 	/*
-	 * w
+	 * while (i < 10)
+	 *{
 	 * infinite loop - No increase of variable
 	 * putchar(i);
 	 * }
