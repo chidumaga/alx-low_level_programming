@@ -25,7 +25,7 @@ printf("Buzz ");
 }
 else
 {
-printf("%i", i);
+printf("%i ", i);
 }
 i++;
 }
