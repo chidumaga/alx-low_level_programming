@@ -20,3 +20,4 @@ int main(void)
 	 */
 	printf("infinite loop avioded! \\o/\n");
 	return (0);
+}
