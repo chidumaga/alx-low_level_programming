@@ -1,0 +1,30 @@
+#include "main.h"
+/**
+ * rev_string - print a reverse string
+ * @s: A pointer to an int that will be changed
+ *
+ * Return: void
+ */
+void rev_string(char *s)
+{
+	char *start_c, *ends_c, c;
+	int i, count;
+	int lenght = 0;
+
+	for (i = 0; s[i]; i++)
+	{
+		lenght++;
+	}
+	count = lenght;
+	start_c = s;
+
+	for (i = 0; i < count - 1; i++)
+	{
+		c = *end_c;
+		*end_c = *start_c;
+		*start_c = c;
+
+		start_c++;
+		end_c--;
+	}
+}
