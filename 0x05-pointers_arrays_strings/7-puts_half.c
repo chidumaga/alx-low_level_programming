@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * put_half - print every other character of string
+ * puts_half - print every other character of string
  * @str: A pointer to an int that will be changed
  *
  * Return: void which our answer is correct
